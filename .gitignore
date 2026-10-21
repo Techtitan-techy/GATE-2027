@@ -1,0 +1,30 @@
+# OS generated files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python temp files
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+test_compressed.pdf
+
+# Temporary files
+*.tmp
+*.bak
+~$*

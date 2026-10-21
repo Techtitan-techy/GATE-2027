@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Git LFS tracking for files > 100MB (GitHub file size policy)
+*bs*grewal*higher*engineering*mathematics*.pdf filter=lfs diff=lfs merge=lfs -text
+*bs*grewal*.pdf filter=lfs diff=lfs merge=lfs -text
