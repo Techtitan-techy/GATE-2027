@@ -3,7 +3,7 @@
 <img src="./assets/gate2027_hero_banner.jpg" alt="GATE 2027 Computer Science & IT Preparation Vault Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 229, 255, 0.2);" />
 
 # 🚀 GATE 2027 Computer Science & IT (CSE) Ultimate Preparation Vault
-### 📚 The Complete Free Repository of Standard Textbooks, Topper Handwritten Notes, Mindmaps, PYQs & 3-Year Master Roadmap
+### 📚 The Complete Free Repository of Standard Textbooks, Topper Handwritten Notes, Mindmaps & Solved PYQs
 
 [![GitHub Stars](https://img.shields.io/github/stars/Techtitan-techy/GATE-2027?style=for-the-badge&logo=github&color=00e5ff&logoColor=black)](https://github.com/Techtitan-techy/GATE-2027/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Techtitan-techy/GATE-2027?style=for-the-badge&logo=git&color=7928ca&logoColor=white)](https://github.com/Techtitan-techy/GATE-2027/network/members)
@@ -21,7 +21,6 @@
 
 [🎯 Exam Pattern & Weightage](#-exam-pattern--marks-distribution) •
 [📚 Subject Vault](#-the-master-subject-vault--book-catalog) •
-[🗓️ 3-Year Roadmap](#-strategic-3-year-roadmap-for-gate-2027) •
 [🧠 Mindmaps](#-visual-mindmaps--handcrafted-cheatsheets) •
 [🏆 Topper Notes](#-toppers-handwritten-notes-catalog) •
 [🔍 Google SEO & Indexing](#-google-indexing--seo-keyword-matrix) •
@@ -193,38 +192,6 @@ Below is the directory mapping of all standard reference textbooks and study not
 | 📖 [Artificial Intelligence: A Modern Approach (AIMA)](./12%20%E2%80%94%20Machine%20Learning%20%26%20Artificial%20Intelligence/Artificial%20Intelligence%20A%20Modern%20Approach%20by%20Stuart%20Russell%20and%20Peter%20Norvig.pdf) | Stuart Russell & Peter Norvig | Search Algorithms (A*, BFS, DFS, Heuristic Search), Adversarial Games (Minimax, Alpha-Beta Pruning), Propositional & FOL Representation |
 | 📖 [Pattern Recognition and Machine Learning (PRML)](./12%20%E2%80%94%20Machine%20Learning%20%26%20Artificial%20Intelligence/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | Christopher M. Bishop | Supervised Learning (Linear Regression, Logistic Regression, SVMs), Unsupervised Learning (K-Means, PCA, GMMs), Neural Networks |
 
----
-
-## 🗓️ Strategic 3-Year Roadmap for GATE 2027
-
-To score an **AIR < 100**, consistency over time beats last-minute cramming. Here is the structured roadmap:
-
-```mermaid
-gantt
-    title GATE 2027 CSE 3-Year Preparation Master Timeline
-    dateFormat  YYYY-MM
-    section Year 1 (Foundations)
-    Discrete Math & C Programming       :a1, 2024-07, 2024-11
-    Engineering Math & Linear Algebra   :a2, 2024-11, 2025-02
-    Data Structures & Basic Algorithms  :a3, 2025-02, 2025-06
-    section Year 2 (Core CS Mastery)
-    Digital Logic & COA Architecture    :b1, 2025-06, 2025-09
-    Operating Systems & DBMS            :b2, 2025-09, 2025-12
-    Theory of Computation & Compilers   :b3, 2025-12, 2026-03
-    Computer Networks & Protocols       :b4, 2026-03, 2026-06
-    section Year 3 (Rank Booster)
-    Advanced Algorithms & ML/AI Review  :c1, 2026-06, 2026-08
-    25-Year Topic-Wise PYQs (2000-2026) :c2, 2026-08, 2026-11
-    Full Mock Series & Timed Simulators :c3, 2026-11, 2027-01
-    Final Revision & Formula Drilling   :c4, 2027-01, 2027-02
-```
-
-### Phase Details:
-1. **Phase 1 — Mathematical Foundations & Coding**: Focus on Kenneth Rosen and Dennis Ritchie. Solve all textbook end-chapter exercises.
-2. **Phase 2 — Core Systems Engineering**: Master Silberschatz (OS & DBMS) and Tanenbaum/Kurose (CN). Focus on numerical problem types (paging math, subnet masking, pipeline throughput).
-3. **Phase 3 — Theoretical Depth**: Master Sipser for TOC and LL/LR parser tables for Compiler Design.
-4. **Phase 4 — 25-Year PYQ Solving**: Attempt every question from 2000 to 2026. Maintain an **Error Logbook** documenting every mistake.
-5. **Phase 5 — Test Series Simulation**: Give 25+ full-length mock tests between 9:00 AM to 12:00 PM or 2:00 PM to 5:00 PM to synchronize circadian rhythm with actual exam slots.
 
 ---
 
@@ -278,7 +245,7 @@ This repository is optimized for discoverability across search engines (Google, 
 * `Patterson Hennessy Computer Organization and Architecture 5th Edition`
 * `Ace Academy Made Easy handwritten notes for GATE CS free download`
 * `GATE CS 2027 preparation strategy for AIR under 100`
-* `3 year preparation roadmap for GATE CSE 2027`
+* `GATE CSE 2027 high yield topics and syllabus guide`
 
 ### Schema.org Educational Resource Structured Data
 ```json
@@ -286,7 +253,7 @@ This repository is optimized for discoverability across search engines (Google, 
   "@context": "https://schema.org",
   "@type": "Course",
   "name": "GATE 2027 Computer Science & Information Technology Preparation Vault",
-  "description": "Comprehensive open-access repository of standard textbooks, handwritten topper notes, syllabus guide, and roadmaps for GATE 2027 CSE.",
+  "description": "Comprehensive open-access repository of standard textbooks, handwritten topper notes, syllabus guide, and exam resources for GATE 2027 CSE.",
   "provider": {
     "@type": "Person",
     "name": "Karthikesh",
